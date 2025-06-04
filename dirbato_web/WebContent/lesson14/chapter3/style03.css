@@ -1,0 +1,7 @@
+nav ul li{
+	display:inline-block;
+	width:100px;
+	background-color:#dddddd;
+	text-align:center;
+	padding:5px;
+}
