@@ -1,0 +1,10 @@
+/*h1要素のマージン(margin)を40pxにする*/
+h1{
+	margin-top:20px;
+	margin-bottom:40px;
+}
+/*p要素の文字色(color)を赤(red)にする*/
+p{
+	color:#ff0000;
+	font-size:24px;
+}
